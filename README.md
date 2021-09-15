@@ -1,7 +1,7 @@
 # Transparent Markers
 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-![GitHub repo size](https://img.shields.io/github/size/voxarlabs/Transparent-Markers)
+![GitHub repo size](https://img.shields.io/github/repo-size/voxarlabs/Transparent-Markers)
 
 ## Introduction
 
